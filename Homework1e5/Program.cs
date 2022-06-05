@@ -13,7 +13,7 @@ namespace Homework1e5
     internal class Program
     {
 
-        /*
+        /* рудимент после добавлении библиотеки
         static void Print(string msg, int x, int y)
         {
             Console.SetCursorPosition(x, y);
